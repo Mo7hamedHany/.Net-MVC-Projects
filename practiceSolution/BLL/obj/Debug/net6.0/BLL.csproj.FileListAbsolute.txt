@@ -1,0 +1,15 @@
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\bin\Debug\net6.0\BLL.dll
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\bin\Debug\net6.0\BLL.pdb
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\bin\Debug\net6.0\DAL.dll
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\bin\Debug\net6.0\DAL.pdb
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\obj\Debug\net6.0\BLL.dll
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\obj\Debug\net6.0\BLL.pdb
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\practiceSolution\BLL\obj\Debug\net6.0\ref\BLL.dll

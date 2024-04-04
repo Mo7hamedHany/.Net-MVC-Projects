@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\presentationProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\presentationProject.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\Files\\Images\\43eab355-144f-461a-af5f-c3fc0afc4101-IMG_20180409_003450048.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\43eab355-144f-461a-af5f-c3fc0afc4101-IMG_20180409_003450048.jpg"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\Files\\Images\\542d8c88-e249-4bb6-ba82-290e7b87c55d-IMG_20180408_000714352_HDR.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\542d8c88-e249-4bb6-ba82-290e7b87c55d-IMG_20180408_000714352_HDR.jpg"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\Files\\Images\\6f3c293e-016b-4ad5-ad59-726d5d56f459-IMG_20180715_090109826.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\6f3c293e-016b-4ad5-ad59-726d5d56f459-IMG_20180715_090109826.jpg"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\Files\\Images\\fa2efa74-f0a9-4786-92e3-57c0383bbcf2-IMG_20180706_093757511.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\fa2efa74-f0a9-4786-92e3-57c0383bbcf2-IMG_20180706_093757511.jpg"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\css\\Auth.css",
+      "PackagePath": "staticwebassets\\css\\Auth.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\College education\\ASP.Net Route Academy\\07 ASP.NET Core MVC\\Practice\\practiceSolution\\presentationProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.presentationProject.props",
+      "PackagePath": "build\\presentationProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.presentationProject.props",
+      "PackagePath": "buildMultiTargeting\\presentationProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.presentationProject.props",
+      "PackagePath": "buildTransitive\\presentationProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.presentationProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
