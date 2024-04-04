@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoryHubPresentation", "StoryHubPresentation\StoryHubPresentation.csproj", "{1596F1D1-6E6B-45DF-B2F6-FD1F9855D123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{320CD5D0-EB66-413C-9678-E01C5A776C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{696CD20B-9FF0-4B97-B76D-D77E89C8D799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1596F1D1-6E6B-45DF-B2F6-FD1F9855D123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1596F1D1-6E6B-45DF-B2F6-FD1F9855D123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1596F1D1-6E6B-45DF-B2F6-FD1F9855D123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1596F1D1-6E6B-45DF-B2F6-FD1F9855D123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{320CD5D0-EB66-413C-9678-E01C5A776C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320CD5D0-EB66-413C-9678-E01C5A776C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320CD5D0-EB66-413C-9678-E01C5A776C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320CD5D0-EB66-413C-9678-E01C5A776C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696CD20B-9FF0-4B97-B76D-D77E89C8D799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696CD20B-9FF0-4B97-B76D-D77E89C8D799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696CD20B-9FF0-4B97-B76D-D77E89C8D799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696CD20B-9FF0-4B97-B76D-D77E89C8D799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C5850CB-D01A-4D2D-8F09-7FB3DB9AEB48}
+	EndGlobalSection
+EndGlobal

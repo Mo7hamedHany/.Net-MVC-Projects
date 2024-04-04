@@ -1,0 +1,124 @@
+﻿@model IEnumerable<StoryVm>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<a asp-action="Create" class="btn btn-success mt-3">Create New Story</a>
+
+@if (Model is not null && Model.Any())
+{
+
+    @if (TempData["Success"] is not null)
+    {
+        <div class="alert alert-success">
+            <p> @TempData["Success"]</p>
+        </div>
+    }
+
+    <style>
+        .custom-card {
+        border-radius: 20px; /* Adjust the value as needed */
+        }
+
+        .card {
+            position: relative;
+            overflow: hidden; /* Ensure that buttons do not show outside the card */
+        }
+
+        .card-action-buttons {
+            position: absolute;
+            bottom: 10px; /* Distance from bottom */
+            left: 50%;
+            transform: translateX(-50%); /* Center the buttons horizontally */
+            display: none; /* Hide buttons initially */
+            z-index: 10; /* Ensure the buttons are above all other content */
+        }
+
+        .card:hover .card-action-buttons {
+            display: flex; /* Show the buttons on hover */
+        }
+
+        /* Style your buttons */
+        .action-btn {
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            margin: 0 5px; /* Spacing between buttons */
+            border-radius: 5px;
+            text-decoration: none; /* Remove underline from links */
+            cursor: pointer;
+        }
+
+        .details-btn {
+            background-color: green;
+        }
+
+        .delete-btn {
+            background-color: red;
+        }
+        }
+    </style>
+
+    <br />
+    <h1 class="mt-3">All Stories</h1>
+    <br />
+    <form class="row">
+        <div class="col-10">
+            <input class="form-control" type="text" placeholder="Story's Name" name="searchValue" />
+        </div>
+        <div class="col-2">
+            <input type="submit" class="btn btn-info" value="Search" />
+        </div>
+
+    </form>
+    <br />
+
+
+    <div class="mx-auto row">
+        @foreach (var story in Model)
+        {
+            <div class="mx-auto col-md-3">
+                <div class="card shadow custom-card p-3" style="width: 100%;">
+                    <img src="~/Files/Images/@story.ImageName" class="card-img-top" style="height: 200px;" alt="...">
+                    <div class="card-body">
+                        <p>Name: @story.Name</p>
+                        <p>Description: @story.Description</p>
+                        <div>
+                            Rating:
+                            @for (int i = 1; i <= 5; i++)
+                            {
+                                if (i <= story.Rating)
+                                {
+                                    <span style="color:gold" class="fa fa-star checked"></span>
+                                }
+                                else
+                                {
+                                    <span class="fa fa-star"></span>
+                                }
+                            }
+                        </div>
+
+                        <p>Author: @story.Teller?.Name</p>
+                    </div>
+                    <br />
+                    <div class="card-action-buttons">
+                        <a asp-action="Details" asp-route-id="@story.Id" class="action-btn details-btn">Details</a>
+                        <a asp-action="Delete" asp-route-id="@story.Id" class="action-btn delete-btn">Delete</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    
+
+}
+else
+{
+    <div class="mt-5 alert alert-warning">
+    <h1>No Stories Available</h1>
+    </div>
+}
+
+
+

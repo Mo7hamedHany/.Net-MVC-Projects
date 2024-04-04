@@ -1,0 +1,12 @@
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\bin\Debug\net6.0\DAL.dll
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\bin\Debug\net6.0\DAL.pdb
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\obj\Debug\net6.0\DAL.dll
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\obj\Debug\net6.0\DAL.pdb
+D:\College education\ASP.Net Route Academy\07 ASP.NET Core MVC\Practice\StoryHub\DAL\obj\Debug\net6.0\ref\DAL.dll

@@ -1,0 +1,71 @@
+﻿@model IEnumerable<StoryTellerVm>
+@{
+    ViewData["Title"] = "Story Tellers";
+}
+
+
+<a asp-action="Create" class="btn btn-success mt-3">Create New StoryTeller</a>
+
+@if (TempData["Success"] is not null)
+{
+    <div class="alert alert-success">
+        <p> @TempData["Success"]</p>
+    </div>
+}
+@if (Model != null && Model.Any())
+{
+    <h1 class="mt-3">All StoryTellers</h1>
+
+    <form class="row">
+        <div class="col-10">
+            <input class="form-control" type="text" placeholder="StoryTeller's Name" name="searchValue" />
+        </div>
+        <div class="col-2">
+            <input type="submit" class="btn btn-info" value="Search" />
+        </div>
+
+    </form>
+
+    <table class="table table-striped table-hover mt-3">
+        <thead>
+            <tr>
+                <td>@Html.DisplayNameFor(d => d.Image)</td>
+                <td>@Html.DisplayNameFor(d => d.Name)</td>
+                <td>@Html.DisplayNameFor(d => d.Age)</td>
+                <td>@Html.DisplayNameFor(d => d.Rating)</td>
+                <td>Details</td>
+                <td>Update</td>
+                <td>Delete</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var teller in Model)
+            {
+                <tr>
+                    <td><img src="~/Files/Images/@teller.ImageName" class="rounded" width="75" height="75" alt="" /></td>
+                    <td class="pt-4">@teller.Name</td>
+                    <td class="pt-4">@teller.Age</td>
+                    <td class="pt-4">@teller.Rating</td>
+                    <td><a asp-action="Details" asp-route-id="@teller.Id"><i class="fas fa-eye pt-4"></i></a></td>
+                    <td><a asp-action="Edit" asp-route-id="@teller.Id"><i class="fas fa-edit pt-4"></i></a></td>
+                    <td>
+                        <form asp-action="Delete" method="post" asp-route-id="@teller.Id">
+                            <a asp-action="Delete" asp-route-id="@teller.Id">
+                                <i class="fas fa-trash pt-4"></i>
+                            </a> 
+                        </form>
+                    </td>
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="mt-5 alert alert-warning">
+        <h1>No StoryTellers</h1>
+    </div>
+}
+
